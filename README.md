@@ -1,0 +1,2 @@
+# LifestyleStore
+e-commerce website
